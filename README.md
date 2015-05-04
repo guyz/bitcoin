@@ -5,6 +5,8 @@ Bitcoin Core integration/staging tree
 
 https://www.bitcoin.org
 
+https://bitcoin.org/en/developer-reference
+
 What is Bitcoin?
 ----------------
 
